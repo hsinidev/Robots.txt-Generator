@@ -9,7 +9,7 @@
 
 **A professional-grade, SEO-safe robots.txt configuration tool built for the modern web.**
 
-[🚀 **LIVE DEMO**](https://Robots.doodax.com){:target="_blank"}
+[🚀 **LIVE DEMO**](https://doodax.com/tools/robots-txt-generator/index.html){doodax.com}
 
 </div>
 
